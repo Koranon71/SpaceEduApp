@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="SpaceEduApp.MainAppScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Window Height="400" Width="750">
+        <Grid>
+            <TextBlock Text="Добро пожаловать в основное приложение!" FontFamily="Segoe UI" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+    </Window>
+</UserControl>
